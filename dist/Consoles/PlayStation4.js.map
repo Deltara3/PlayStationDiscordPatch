@@ -1,0 +1,1 @@
+{"version":3,"file":"PlayStation4.js","sourceRoot":"","sources":["../../src/Consoles/PlayStation4.ts"],"names":[],"mappings":";;AAAA,6DAAkF;AAElF,MAAqB,YAAa,SAAQ,uCAAkB;IAE3D;QAEC,KAAK,CAAC,2CAAsB,CAAC,GAAG,EAAE,oBAAoB,CAAC,CAAC;IACzD,CAAC;IAED,IAAW,SAAS;QAEnB,OAAO,UAAU,CAAC;IACnB,CAAC;IAED,IAAW,WAAW;QAErB,OAAO,eAAe,CAAC;IACxB,CAAC;CACD;AAhBD,+BAgBC"}

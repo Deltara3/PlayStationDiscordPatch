@@ -1,0 +1,1 @@
+{"version":3,"file":"PlayStationVita.js","sourceRoot":"","sources":["../../src/Consoles/PlayStationVita.ts"],"names":[],"mappings":";;AAAA,6DAAkF;AAElF,MAAqB,eAAgB,SAAQ,uCAAkB;IAE9D;QAEC,KAAK,CAAC,2CAAsB,CAAC,MAAM,EAAE,oBAAoB,CAAC,CAAC;IAC5D,CAAC;IAED,IAAW,SAAS;QAEnB,OAAO,WAAW,CAAC;IACpB,CAAC;IAED,IAAW,WAAW;QAErB,OAAO,kBAAkB,CAAC;IAC3B,CAAC;CACD;AAhBD,kCAgBC"}
