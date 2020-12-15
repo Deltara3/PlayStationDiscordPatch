@@ -13,9 +13,18 @@ Made for PS3/Vita users. All original code written by [Tustin](https://github.co
 - If you have to reinstall, make sure to uncheck Launch PlayStationDiscord.
 - Use a file browser to navigate to your install directory.
 - Enter the resources folder and delete both app.asar and app-update.yml.
-- Download app.asar from the releases of this repository or click [here]
+- Download app.asar from the releases of this repository or click [here](https://github.com/Deltara3/PlayStationDiscordPatch/releases/download/v1.0/app.asar)
 - Copy the downloaded app.asar to the resources folder from before.
 - Done! Launch the app and enjoy.
+
+# Inbetween Installation
+Requires node.js, npm, and git to be installed.
+- Uninstall your current version of PlayStationDiscord if it does not match 3.1.2.
+- Install PlayStationDiscord 3.1.2 from [here](https://github.com/Tustin/PlayStationDiscord/releases/tag/v3.1.2)
+- If you have to reinstall, make sure to uncheck Launch PlayStationDiscord.
+- Use a file browser to navigate to your install directory.
+- Enter the resources folder and delete app-update.yml.
+- Open Command Prompt or Terminal and run "git clone https:/github.com/Deltara3/PlayStationDiscordPatch" to download the source.
 
 # Convoluted Installation
 Requires node.js and npm to be installed.
