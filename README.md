@@ -3,9 +3,9 @@ Patch for [PlayStationDiscord](https://github.com/Tustin/PlayStationDiscord) whi
 Made for PS3/Vita users. All original code written by [Tustin](https://github.com/Tustin).
 
 # Notice
-- As the the patch requires version 3.1.2, PlayStation 5 rich presence is unsupported.
-- Images don't work either.
+- As the the patch requires version 3.1.2, PlayStation 5 rich presence and the showing of images is unsupported
 - This is meant as a workaround for the new PSN api, once one is found, this repository most likely will be deleted.
+- The inbetween installation is untested.
 
 # Simple Installation
 - Uninstall your current version of PlayStationDiscord if it does not match 3.1.2.
@@ -25,6 +25,9 @@ Requires node.js, npm, and git to be installed.
 - Use a file browser to navigate to your install directory.
 - Enter the resources folder and delete app-update.yml.
 - Open Command Prompt or Terminal and run "git clone https:/github.com/Deltara3/PlayStationDiscordPatch" to download the source.
+- Run "npx asar pack PlayStationDiscordPatch app.asar" to pack the archive.
+- Copy the newly created app.asar to the resources folder in your PlayStationDiscord install directory.
+- Done! Launch the app and enjoy.
 
 # Convoluted Installation
 Requires node.js and npm to be installed.
