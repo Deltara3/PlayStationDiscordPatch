@@ -1,0 +1,2 @@
+# PlayStationDiscordPatch
+Patch for PlayStationDiscord
