@@ -17,6 +17,8 @@ Made for PS3/Vita users. All original code written by [Tustin](https://github.co
 - Copy the downloaded app.asar to the resources folder from before.
 - Done! Launch the app and enjoy.
 
+The below installation methods are for people who want to do something, for some reason.
+
 # Inbetween Installation
 Requires node.js, npm, and git to be installed.
 - Uninstall your current version of PlayStationDiscord if it does not match 3.1.2.
