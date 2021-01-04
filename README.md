@@ -3,8 +3,8 @@ Patch for [PlayStationDiscord](https://github.com/Tustin/PlayStationDiscord) whi
 Made for PS3/Vita users. All original code written by [Tustin](https://github.com/Tustin).
 
 # Notice
-- As the the patch requires version 3.1.2, PlayStation 5 rich presence and the showing of images is unsupported
-- This is meant as a workaround for the new PSN api, once one is found, this repository most likely will be deleted.
+- As the the patch requires version 3.1.2, PlayStation 5 rich presence and the showing of images is unsupported.
+- This is meant as a workaround for the new PSN api, once one is found, this repository most likely will be deleted, privated, or archived.
 - The inbetween installation is untested.
 
 # Simple Installation
