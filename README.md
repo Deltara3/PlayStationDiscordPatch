@@ -39,7 +39,7 @@ Requires node.js and npm to be installed.
 - Use a file browser to navigate to your install directory.
 - Enter the resources folder and delete app-update.yml.
 - Copy app.asar to another location.
-- Open Command Prompt or Terminal and navigate to that location mentioned before.
+- Open Command Prompt (Administrator depending on where you open it) or Terminal and navigate to that location mentioned before.
 - Run the command "npx asar extract app.asar extracted" to extract the archive.
 - Enter that folder with a file browser.
 - Enter the dist folder and right after that enter Consoles.
